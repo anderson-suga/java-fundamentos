@@ -2,6 +2,8 @@
 
 Este repositório contêm exercícios do curso [Java Fundamentos](https://www.datascienceacademy.com.br/pages/curso-java-fundamentos) da Data Science Academy.
 
+Link do certificado: https://goo.gl/ttu4Td 
+![Certificado - Data Science Academy - Java Fundamentos](https://github.com/anderson-suga/java-fundamentos/blob/master/certificate-java-fundamentos.png)
 
 # Conteúdo Programático:
 
@@ -200,6 +202,3 @@ Este repositório contêm exercícios do curso [Java Fundamentos](https://www.da
 - Agrupamentos - Parte 2
 - FlatMaps
 - Streams Paralelas
-
-Link do certificado: https://goo.gl/ttu4Td 
-![Certificado - Data Science Academy - Java Fundamentos](https://github.com/anderson-suga/java-fundamentos/blob/master/certificate-java-fundamentos.png)
