@@ -202,4 +202,4 @@ Este repositório contêm exercícios do curso [Java Fundamentos](https://www.da
 - Streams Paralelas
 
 Link do certificado: https://goo.gl/ttu4Td 
-![Data Science Academy - Java Fundamentos](https://github.com/anderson-suga/java-fundamentos/blob/master/certificate-java-fundamentos.png)
+![Certificado - Data Science Academy - Java Fundamentos](https://github.com/anderson-suga/java-fundamentos/blob/master/certificate-java-fundamentos.png)
